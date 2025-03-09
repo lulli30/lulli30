@@ -43,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" alt="Tailwind CSS" />
 </p>
 
-
 ---
 
 ## 📱 Connect with Me:
@@ -53,6 +52,9 @@
   </a>
   <a href="https://github.com/lulli30" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-andrew-borabo-3533b3255/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" />
   </a>
 </p>
 
