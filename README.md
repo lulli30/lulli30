@@ -7,7 +7,7 @@
 
 ### 🌟 About Me:
 - 📍 Based in **Philippines**
-- 🌐 Check out my **[Portfolio](lulli-dev.vercel.app)**
+- 🌐 Check out my **[Portfolio](https://lulli-dev.vercel.app)**
 - 📩 Reach me at **[johnandrewborabo44@gmail.com](mailto:johnandrewborabo44@gmail.com)**
 - 🧠 Currently exploring **Web Development, Machine Learning, and Cybersecurity**
 - 🐶 Fun fact: I have a dog named **Loki**
