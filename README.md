@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lulli30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
@@ -62,14 +62,14 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Bachelor of Science in Computer Science - Specialized in Machine Learning**  
   National University - Dasmarinas, Expected Graduation: 2026
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced React Patterns
 - Machine Learning with TensorFlow
@@ -78,13 +78,13 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities.
 
-- 💬 Ask me about web development, coding challenges, or tech in general
-- 👯 Looking to collaborate on open-source projects
-- 🤝 Open to job opportunities and freelance work
+- Ask me about web development, coding challenges, or tech in general
+- Looking to collaborate on open-source projects
+- Open to job opportunities and freelance work
 
 <div align="center">
   
