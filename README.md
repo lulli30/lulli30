@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> Hi there, I'm Andrew!
 
-## 👨‍💻 Full-Stack Developer & CS Student from the Philippines
+## Full-Stack Developer & CS Student from the Philippines
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lulli--dev.vercel.app-blue?style=flat-square&logo=vercel)](https://lulli-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-johnandrewborabo44%40gmail.com-red?style=flat-square&logo=gmail)](mailto:johnandrewborabo44@gmail.com)
@@ -10,13 +10,13 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-- 🎓 Computer Science student passionate about creating impactful technology
-- 🔭 Currently exploring **Web Development**, **Machine Learning**, and **Cybersecurity**
-- 🌱 Always learning and expanding my tech stack
-- 🚀 Building projects that solve real-world problems
-- 🐶 Proud dog parent to Loki, my coding companion
+- Computer Science student passionate about creating impactful technology
+- Currently exploring **Web Development**, **Machine Learning**, and **Cybersecurity**
+- Always learning and expanding my tech stack
+- Building projects that solve real-world problems
+- Proud dog parent to Loki, my coding companion
 
 ---
 
@@ -49,47 +49,6 @@
 
 ---
 
-## 🏆 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <div align="center">
-        <a href="https://github.com/username/project1" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Project+1+Screenshot" width="400" alt="Project 1">
-        </a>
-        <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-        <p>Brief description of the project highlighting key features and your contribution.</p>
-        <a href="https://github.com/username/project1" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code">
-        </a>
-        <a href="https://project1-demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">
-        <a href="https://github.com/username/project2" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Project+2+Screenshot" width="400" alt="Project 2">
-        </a>
-        <p><strong>Tech Stack:</strong> TypeScript, Next.js, Firebase</p>
-        <p>Brief description of the project highlighting key features and your contribution.</p>
-        <a href="https://github.com/username/project2" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code">
-        </a>
-        <a href="https://project2-demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -105,8 +64,8 @@
 
 ## 🎓 Education
 
-- **Bachelor of Science in Computer Science**  
-  University Name, Expected Graduation: 20XX
+- **Bachelor of Science in Computer Science - Specialized in Machine Learning**  
+  National University - Dasmarinas, Expected Graduation: 2026
 
 ---
 
