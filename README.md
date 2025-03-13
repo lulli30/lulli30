@@ -1,12 +1,6 @@
-# <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> Hi there, I'm Andrew!
-</div>
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> Hi there, I'm Andrew!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309784-dark-themed-banner.gif" alt="Banner" width="80%">
-</div>
-
-## 🚀 Full-Stack Developer & CS Student from the Philippines
+## Full-Stack Developer & CS Student from the Philippines
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lulli--dev.vercel.app-blue?style=flat-square&logo=vercel)](https://lulli-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-johnandrewborabo44%40gmail.com-red?style=flat-square&logo=gmail)](mailto:johnandrewborabo44@gmail.com)
@@ -16,92 +10,81 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **Computer Science student passionate about building impactful tech**
-- 💡 Exploring **Web Development**, **Machine Learning**, and **Cybersecurity**
-- 🚀 Building projects that solve real-world problems
-- 🐶 Proud dog parent to Loki, my coding companion
-- 🏆 Participated in **ISEAC 2025 Hackathon at UP Los Baños**
+- Computer Science student passionate about creating impactful technology
+- Currently exploring **Web Development**, **Machine Learning**, and **Cybersecurity**
+- Always learning and expanding my tech stack
+- Building projects that solve real-world problems
+- Proud dog parent to Loki, my coding companion
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🏗️ Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🎨 Design & Tools
+### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Next Step AI: Personalized Career Pathways** *(Team Project)*  
-🔹 **Hands-Free Food Kiosk** *(Personal Project)*  
-🔹 **Online Ordering System for Food Delivery** *(Freelance Project)*  
-
-➡️ More on my [GitHub Repositories](https://github.com/lulli30?tab=repositories)
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lulli30&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lulli30&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lulli30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lulli30&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulli30&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulli30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🎓 Education
+## Education
 
-- **BS in Computer Science - Machine Learning Specialization**  
-  National University - Dasmarinas *(Expected Graduation: 2026)*
-
----
-
-## 🚀 Currently Learning
-
-- [Advanced React Patterns](https://react.dev/)
-- [Machine Learning with TensorFlow](https://www.tensorflow.org/)
-- [Cloud Architecture](https://cloud.google.com/)
-- [Cybersecurity Fundamentals](https://www.coursera.org/learn/intro-cyber-security)
+- **Bachelor of Science in Computer Science - Specialized in Machine Learning**  
+  National University - Dasmarinas, Expected Graduation: 2026
 
 ---
 
-## 🎉 Fun Facts
+## Currently Learning
 
-- 🖥️ Built my first website when I was 14
-- 🔥 Love dark mode everything
-- 🎮 Gamer in my free time (mostly FPS & RPGs)
-- ✈️ Dreaming of working abroad in the tech industry
+- Advanced React Patterns
+- Machine Learning with TensorFlow
+- Cloud Architecture
+- Cybersecurity Fundamentals
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities.
+
+- Ask me about web development, coding challenges, or tech in general
+- Looking to collaborate on open-source projects
+- Open to job opportunities and freelance work
 
 <div align="center">
   
@@ -110,6 +93,8 @@ I'm always open to interesting conversations and collaboration opportunities.
   [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnandrewborabo44@gmail.com)
   
 </div>
+
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lulli30.lulli30" alt="visitors">
