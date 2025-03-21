@@ -15,7 +15,7 @@
 
 <br>
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const andrew = {
@@ -39,7 +39,7 @@ const andrew = {
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   
@@ -76,7 +76,7 @@ const andrew = {
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lulli30&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -89,7 +89,7 @@ const andrew = {
 
 <br>
 
-## 📚 Currently Learning
+## Currently Learning
 
 <div align="center">
   
@@ -102,7 +102,7 @@ const andrew = {
 
 <br>
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss web development, coding challenges, or tech in general - feel free to reach out!
