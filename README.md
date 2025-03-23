@@ -12,7 +12,7 @@
   [![Email](https://img.shields.io/badge/Email-johnandrewborabo44-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnandrewborabo44@gmail.com)
   
 </div>
-
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm90eGd4c3RtY2ZiYnA1ZDJsZ3VqNXk3YXJuZHdvZDNoZm5kb2czMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vDS40dDjCITTfCBUY/giphy.gif
 <br>
 
 ## About Me
