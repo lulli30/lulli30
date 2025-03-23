@@ -13,8 +13,7 @@
   
 </div>
 <div align="center">
-  <img src="![regular-show-loop-GIF-by-Peter-unscreen](https://github.com/user-attachments/assets/dcae6c0f-80ce-4414-9e22-9b785d6914cb)
-" width="200px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoOTB4anh2bDI0ZHdrMDdwZ2I0cGNnY2hyNzRqaGFmeGFncnNjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vybOQ6nvVXp1eIMWkz/giphy.gif" width="200px" />
 </div>
 <br>
 
