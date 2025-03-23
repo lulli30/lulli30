@@ -105,11 +105,6 @@ const andrew = {
 <br>
 
 ## Let's Connect!
-
-<p align="center">
-  I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss web development, coding challenges, or tech in general - feel free to reach out!
-</p>
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-andrew-borabo-3533b3255/)
@@ -127,7 +122,4 @@ const andrew = {
 </div>
 
 <div align="center">
-  
-  ### 🔥 <i>Let's build something amazing together!</i> 🔥
-  
 </div>
