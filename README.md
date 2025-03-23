@@ -12,7 +12,10 @@
   [![Email](https://img.shields.io/badge/Email-johnandrewborabo44-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnandrewborabo44@gmail.com)
   
 </div>
-<img src="https://media.giphy.com/media/3vDS40dDjCITTfCBUY/giphy.gif" width="200px" />
+<div align="center">
+  <img src="![regular-show-loop-GIF-by-Peter-unscreen](https://github.com/user-attachments/assets/dcae6c0f-80ce-4414-9e22-9b785d6914cb)
+" width="200px" />
+</div>
 <br>
 
 ## About Me
