@@ -27,8 +27,7 @@ const andrew = {
   graduationYear: 2026,
   
   interests: ["Web Development", "Machine Learning", "Cybersecurity"],
-  
-  // Always expanding this array...
+
   goals: ["Ma kiss niya"]
 };
 ```
