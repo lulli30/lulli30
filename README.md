@@ -28,14 +28,8 @@ const andrew = {
   
   interests: ["Web Development", "Machine Learning", "Cybersecurity"],
   
-  pets: [{
-    name: "Loki",
-    role: "Chief Coding Companion",
-    expertise: "Keyboard Warming"
-  }],
-  
   // Always expanding this array...
-  goals: ["Build impactful tech", "Solve real-world problems", "Never stop learning"]
+  goals: ["Ma kiss niya"]
 };
 ```
 
