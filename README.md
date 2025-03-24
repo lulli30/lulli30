@@ -90,7 +90,6 @@ const andrew = {
   
   ![Advanced React](https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-20232A?style=for-the-badge&logo=shield&logoColor=white)
   
 </div>
