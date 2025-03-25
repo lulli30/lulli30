@@ -36,7 +36,7 @@ const andrew = {
 
 ## Tech Stack
 
-### Languages & Frameworks
+  ### Languages & Frameworks
 <div align="center">
   
   ![Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,php,html,css,react,nodejs,tailwind)
