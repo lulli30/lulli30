@@ -35,10 +35,9 @@ const andrew = {
 <br>
 
 ## Tech Stack
-
-  ### Languages & Frameworks
 <div align="center">
   
+  ### Languages & Frameworks
   ![Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,php,html,css,react,nodejs,tailwind)
   
   ### Key Technologies
