@@ -12,106 +12,69 @@
   [![Email](https://img.shields.io/badge/Email-johnandrewborabo44-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnandrewborabo44@gmail.com)
   
 </div>
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZoOTB4anh2bDI0ZHdrMDdwZ2I0cGNnY2hyNzRqaGFmeGFncnNjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vybOQ6nvVXp1eIMWkz/giphy.gif" width="900px" />
-</div>
-<br>
 
-## About Me
+## 🚀 About Me
+
+I'm a passionate Computer Science student at National University - Dasmarinas, set to graduate in 2026, with a strong focus on Machine Learning and Full-Stack Development. I thrive on solving complex problems and continuously expanding my technical skills.
 
 ```javascript
 const andrew = {
   location: "Philippines",
-  education: "BS Computer Science - Machine Learning",
-  institution: "National University - Dasmarinas",
-  graduationYear: 2026,
-  
-  interests: ["Web Development", "Machine Learning", "Cybersecurity"],
-
-  goals: ["Ma kiss niya"]
+  education: {
+    degree: "BS Computer Science - Machine Learning",
+    institution: "National University - Dasmarinas",
+    expectedGraduation: 2026
+  },
+  currentFocus: ["Web Development", "Machine Learning", "Cybersecurity"],
+  professionalGoals: [
+    "Develop innovative solutions",
+    "Contribute to open-source projects",
+    "Make a meaningful impact in tech"
+  ]
 };
 ```
 
-<br>
+## 💻 Tech Stack
 
-## Tech Stack
-
+### Languages & Frameworks
 <div align="center">
   
-  ### Languages
+  ![Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,php,html,css,react,nodejs,tailwind)
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ### Frameworks & Libraries
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  ### Databases & Cloud
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  
-  ### Design & Tools
-  
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  
+  ### Key Technologies
+  ![Databases & Cloud](https://skillicons.dev/icons?i=mysql,firebase,googlecloud,git,github,vscode,jupyter)
 </div>
 
-<br>
+## 🌱 Currently Exploring
+- Advanced React Techniques
+- Cybersecurity Principles
+- Machine Learning Algorithms
 
-## GitHub Stats
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lulli30&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lulli30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulli30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </div>
 </div>
+
+## 🤝 Let's Connect!
+
+I'm always eager to collaborate on interesting projects, discuss technology, or explore new opportunities. Feel free to reach out!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lulli30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulli30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br>
-
-## Currently Learning
-
-<div align="center">
   
-  ![Advanced React](https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-20232A?style=for-the-badge&logo=shield&logoColor=white)
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-andrew-borabo-3533b3255/)
+  [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lulli30)
+  [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnandrewborabo44@gmail.com)
   
 </div>
-
-<br>
-
-## Let's Connect!
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-andrew-borabo-3533b3255/)
-  [![GitHub](https://img.shields.io/badge/follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lulli30)
-  [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnandrewborabo44@gmail.com)
-  
-</div>
-
-<br>
 
 ---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lulli30.lulli30" alt="visitors">
-</div>
-
-<div align="center">
 </div>
