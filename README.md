@@ -34,6 +34,8 @@ const andrew = {
 
 <br>
 
+## Tech Stack
+
 ### Languages & Frameworks
 <div align="center">
   
