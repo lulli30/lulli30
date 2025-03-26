@@ -1,4 +1,4 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="933bcf0f-c316-48ee-9c8f-57182d0f9704" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="933bcf0f-c316-48ee-9c8f-57182d0f9704" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/933bcf0f-c316-48ee-9c8f-57182d0f9704/public_url)
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> Hi there, I'm Andrew!
 
