@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> Hi there, I'm Andrew!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Developer;Computer+Science+Student;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Developer;Computer+Science+Student;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner;Full-stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
