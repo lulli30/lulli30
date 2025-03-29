@@ -8,7 +8,6 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-lulli--dev.vercel.app-38B2AC?style=for-the-badge&logo=vercel&logoColor=white)](https://lulli-dev.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Andrew-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-andrew-borabo-3533b3255/)
-  [![GitHub](https://img.shields.io/badge/GitHub-lulli30-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lulli30)
   [![Email](https://img.shields.io/badge/Email-johnandrewborabo44-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnandrewborabo44@gmail.com)
   
 </div>
