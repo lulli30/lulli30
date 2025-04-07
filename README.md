@@ -73,6 +73,3 @@ const andrew = {
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lulli30.lulli30" alt="visitors">
 </div>
-<div align="center">
-  <i>Thanks for visiting my profile! Let's build something amazing together.</i>
-</div>
